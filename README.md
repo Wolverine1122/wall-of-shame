@@ -1,1 +1,1 @@
-# wall-of-shame
+# Wall-of-Shame
